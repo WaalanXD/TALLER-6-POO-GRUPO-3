@@ -33,27 +33,26 @@
 
 > *`Ejercicio 01`*
 >  
-> <img width="1960" height="1080" alt="Diagrama de Clases Actividad 5" src="https://github.com/user-attachments/assets/8c61211a-490d-48ad-90b1-2dc8dcd85bd4" />
->> *`Ejercicio 02`*
->>
->> 
->>> *`Ejercicio 03`*
->>>
->>> 
+> 
+> > *`Ejercicio 02`*
+> 
+> >
+> > > *`Ejercicio 03`*
+> > > 
 #
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=👥+UML+Casos+de+Usos+👥" alt="Typing SVG" /></a>
 
 > *`Ejercicio 01`*
->  
-> <img width="1960" height="1080" alt="Diagrama de Clases Actividad 5" src="https://github.com/user-attachments/assets/8c61211a-490d-48ad-90b1-2dc8dcd85bd4" />
->> *`Ejercicio 02`*
->>
->> 
->>> *`Ejercicio 03`*
->>>
->>> 
+>
+> 
+> > *`Ejercicio 02`*
+> >
+> > 
+> > > *`Ejercicio 03`*
+> > >
+> > > 
 
 #
 
