@@ -63,9 +63,19 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=🌻+Captura+Interfaz+Grafica+🌻" alt="Typing SVG" /></a>
 
-### *`Funciones del programa`* 
+### *`Funciones del ejercicio 8.4`* 
 
-> *`Ejercicio 8.4`*
+> *`Menu principal`*
+> 
+> <img width="614" height="452" alt="image" src="https://github.com/user-attachments/assets/641f4dca-0827-49bd-b3de-226cd6075421" />
+>
+>*`Agregar empleado`*
+> 
+> <img width="954" height="579" alt="image" src="https://github.com/user-attachments/assets/9cdfd31a-28f9-4bee-b49a-e9a56f28d5d5" />
+>
+> *`Guardar archivo`*
+> 
+> <img width="706" height="511" alt="image" src="https://github.com/user-attachments/assets/94b2380d-d02d-4acf-b173-a87c609839d7" />
 >
 > 
 > > *`Ejercicio 8.5`*
