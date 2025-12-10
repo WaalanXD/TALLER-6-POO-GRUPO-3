@@ -78,10 +78,24 @@
 > <img width="706" height="511" alt="image" src="https://github.com/user-attachments/assets/94b2380d-d02d-4acf-b173-a87c609839d7" />
 >
 > 
-> > *`Ejercicio 8.5`*
+### *`Funciones del ejercicio 8.5`* 
 > >
+> > *`menu y habitaciones`*
+> >
+> > <img width="725" height="527" alt="image" src="https://github.com/user-attachments/assets/14c80e48-f464-4bb3-a41e-00e327965df1" />
+> >
+> > *`ingreso`*
+> >
+> > <img width="453" height="360" alt="image" src="https://github.com/user-attachments/assets/f6dd1881-a3b2-4031-846d-3bc4c9dcb74e" />
+> >
+> > *`salida`*
 > > 
-> > > *`Ejercicio 9.1`*
+> ><img width="436" height="383" alt="image" src="https://github.com/user-attachments/assets/5d9fad57-7c18-4647-ac43-32f414c0fcec" />
+> >
+### *`Funciones del ejercicio 9.1`* 
+> > >
+> > > ![eeb86e02-9529-414c-a86a-ecd3485eee96](https://github.com/user-attachments/assets/b353dd10-4565-4fe0-af50-116641788d6a)
+> > > ![e7fd585b-d4e1-4217-9834-d10d091b8e46](https://github.com/user-attachments/assets/8d949ac0-c5a4-468f-9736-5627d519bb7a)
 
 #
 
