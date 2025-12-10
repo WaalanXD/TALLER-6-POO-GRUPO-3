@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "c:/Users/kenny/Downloads/Programación/Java Progrmación Conceptos/OpenJFDX/openjfx-25.0.1_windows-x64_bin-sdk/javafx-sdk-25.0.1/lib/**/*.jar"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
