@@ -1,0 +1,12 @@
+Nombre = Mario
+Apellidos = Perez
+Cargo = DIRECTIVO
+Género = MASCULINO
+Salario = $23,0
+Días trabajados = 25
+Otros ingresos = $600,0
+Pagos salud = $100,0
+Aportes pensiones = $100,0
+---------
+
+Total nómina = $975,00
