@@ -9,7 +9,7 @@
 ---
 
 
-> *`Ejercicios de las paginas del libro🐧`* 
+> *`Ejercicios 8.4,8.5 y 9.1 del libro🐧`* 
 
 
 #
@@ -31,27 +31,31 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=🗒️+UML+Diagrama+de+clase+🗒️" alt="Typing SVG" /></a>
 
-> *`Ejercicio 01`*
->  
+> *`Ejercicio 8.4`*
+>  <img width="2300" height="1900" alt="UML EJ 1 Act 6" src="https://github.com/user-attachments/assets/72744c2a-5848-4b81-b6c8-6baa50bd64e0" />
 > 
-> > *`Ejercicio 02`*
-> 
+> > *`Ejercicio 8.5`*
+> ><img width="3060" height="2900" alt="UML EJ 2 Act 6" src="https://github.com/user-attachments/assets/1971d295-e370-4292-95b8-284f6970cc9c" />
 > >
-> > > *`Ejercicio 03`*
+> > > *`Ejercicio 9.1`*
+> > > <img width="1800" height="1390" alt="UML EJ 3 Act 6" src="https://github.com/user-attachments/assets/e8c49417-ec75-4011-ab78-285ddfffb351" />
 > > > 
 #
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=👥+UML+Casos+de+Usos+👥" alt="Typing SVG" /></a>
 
-> *`Ejercicio 01`*
->
+> *`Ejercicio 8.4`*
 > 
-> > *`Ejercicio 02`*
-> >
+> <img width="901" height="514" alt="image" src="https://github.com/user-attachments/assets/46c4e4a2-200d-4b04-80c0-706d3752b648" />
+> 
+> > *`Ejercicio 8.5`*
 > > 
-> > > *`Ejercicio 03`*
-> > >
+> > <img width="774" height="524" alt="image" src="https://github.com/user-attachments/assets/458ccd08-d32f-4168-9165-77980db8397e" />
+> > 
+> > > *`Ejercicio 9.1`*
+> > > 
+> > > <img width="685" height="402" alt="image" src="https://github.com/user-attachments/assets/ee17de31-1de7-45b3-a678-fea43bc07036" />
 > > > 
 
 #
@@ -61,13 +65,13 @@
 
 ### *`Funciones del programa`* 
 
-> *`Ejercicio 01`*
+> *`Ejercicio 8.4`*
 >
 > 
-> > *`Ejercicio 02`*
+> > *`Ejercicio 8.5`*
 > >
 > > 
-> > > *`Ejercicio 03`*
+> > > *`Ejercicio 9.1`*
 
 #
 
@@ -77,11 +81,11 @@
 
 #### Actividad 6 (general): 
 #### 
-#### Ejercicio 01:
+#### Ejercicio 8.4:
 ####
-#### Ejercicio 02:
+#### Ejercicio 8.5:
 ####
-#### Ejercicio 03:
+#### Ejercicio 9.1:
 ####
 
 #
