@@ -104,13 +104,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=🖥️+Codigo+Fuente+🖥️" alt="Typing SVG" /></a>
 
 #### Actividad 6 (general): 
-#### 
+#### *https://github.com/WaalanXD/TALLER-6-POO-GRUPO-3/tree/main/actividad06*
 #### Ejercicio 8.4:
-####
+#### *https://github.com/WaalanXD/TALLER-6-POO-GRUPO-3/tree/main/actividad06/ejercicio01*
 #### Ejercicio 8.5:
-####
+#### *https://github.com/WaalanXD/TALLER-6-POO-GRUPO-3/tree/main/actividad06/ejercicio02*
 #### Ejercicio 9.1:
-####
+#### *https://github.com/WaalanXD/TALLER-6-POO-GRUPO-3/tree/main/actividad06/ejercicio03/demo*
 
 #
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&duration=3000&pause=0&color=C2B014&center=true&vcenter=true&multiline=true&width=1000&height=80&lines=9+de+Diciembre+de+2025;Medellín,+Antioquia" alt="gif" />
